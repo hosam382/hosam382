@@ -5,7 +5,7 @@ and I build interactive 3D learning websites that help students understand scien
 I use AI tools in my workflow and I'm learning something new every week.
 
 **Portfolio:** https://hassam-bakhsh.netlify.app
-**LinkedIn:** https://www.linkedin.com/in/hassam-bakhsa-74416b434
+**LinkedIn:** https://www.linkedin.com/in/hassam-hussain-khada-bakhsa-74416b434
 
 ## Projects
 
