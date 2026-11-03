@@ -8,11 +8,14 @@ and I'm into programming, cybersecurity and AI. I use AI tools in my workflow an
 </p>
 
 <p align="center">
+<a href="https://hosam382.github.io/">Tools portfolio</a> ·
 <a href="https://hassam-bakhsh.netlify.app">Portfolio</a> ·
 <a href="https://www.linkedin.com/in/hassam-hussain-khada-bakhsa-74416b434">LinkedIn</a>
 </p>
 
 ## Open-source tools
+
+All six on one page: **[hosam382.github.io](https://hosam382.github.io/)**
 
 | Tool | What it does | Try it |
 |---|---|---|
