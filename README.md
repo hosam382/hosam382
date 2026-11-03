@@ -1,13 +1,29 @@
-# Hi, I'm Hassam
+<p align="center"><img src="seal.png" width="110" alt=""></p>
 
-High school student in Jeddah, Saudi Arabia. I like programming and cybersecurity,
-and I build interactive 3D learning websites that help students understand science.
-I use AI tools in my workflow and I'm learning something new every week.
+<h1 align="center">Hassam Hussain Khada Bakhsa<br>حسام حسين خدا بخش</h1>
 
-**Portfolio:** https://hassam-bakhsh.netlify.app
-**LinkedIn:** https://www.linkedin.com/in/hassam-hussain-khada-bakhsa-74416b434
+<p align="center">
+High school student in Jeddah, Saudi Arabia. I build Arabic open-source tools and interactive 3D learning websites,<br>
+and I'm into programming, cybersecurity and AI. I use AI tools in my workflow and learn something new every week.
+</p>
 
-## Projects
+<p align="center">
+<a href="https://hassam-bakhsh.netlify.app">Portfolio</a> ·
+<a href="https://www.linkedin.com/in/hassam-hussain-khada-bakhsa-74416b434">LinkedIn</a>
+</p>
+
+## Open-source tools
+
+| Tool | What it does | Try it |
+|---|---|---|
+| [Weighted Percentage Calculator](https://github.com/hosam382/weighted-percentage-calculator) | Saudi university admission percentage (High school + Qudrat + Tahsili), with "how much do I need?" mode | [live](https://hosam382.github.io/weighted-percentage-calculator/) |
+| [Arabic Claude Skills](https://github.com/hosam382/arabic-claude-skills) | 4 Claude Code skills for Arabic RTL web, Arabic writing review, Saudi school reports and Hijri dates | [live](https://hosam382.github.io/arabic-claude-skills/) |
+| [AI Prompts for Teachers](https://github.com/hosam382/ai-prompts-for-teachers) | A library of ready Arabic AI prompts for teachers, with fill-in fields and one-click copy | [live](https://hosam382.github.io/ai-prompts-for-teachers/) |
+| [Arabic Password Checker](https://github.com/hosam382/password-checker-ar) | Explains in Arabic why a password is weak, incl. Arabic words typed on an English keyboard | [live](https://hosam382.github.io/password-checker-ar/) |
+| [Arabic Text Toolkit](https://github.com/hosam382/arabic-text-toolkit) | Zero-dependency Python module + CLI: normalize Arabic, digits, slugs, word counts | [code](https://github.com/hosam382/arabic-text-toolkit) |
+| [Study Plan Generator](https://github.com/hosam382/study-plan-generator) | Day-by-day Qudrat and Tahsili study plan, printable and exportable to your calendar | [live](https://hosam382.github.io/study-plan-generator/) |
+
+## Websites I built
 
 | Project | What it is | Live |
 |---|---|---|
@@ -17,8 +33,8 @@ I use AI tools in my workflow and I'm learning something new every week.
 | National Day 96 | Interactive quiz and map in Arabic, English and Urdu | [open](https://azna96.netlify.app) |
 | Wai exhibition | 3D virtual museum corridor for an awareness program | [open](https://wai-expo.netlify.app) |
 | Aman exhibition | Interactive story for an anti-bullying program | [open](https://aman-expo.netlify.app) |
-| network-port-scanner | Simple TCP port scanner in Python | [repo](https://github.com/hosam382/network-port-scanner) |
-| file-organizer-tool | Sorts files into folders by type, in Python | [repo](https://github.com/hosam382/file-organizer-tool) |
+
+Smaller Python practice: [network-port-scanner](https://github.com/hosam382/network-port-scanner), [file-organizer-tool](https://github.com/hosam382/file-organizer-tool).
 
 ## Certificates
 
