@@ -1,6 +1,6 @@
 <p align="center"><img src="seal.png" width="110" alt=""></p>
 
-<h1 align="center">Hassam Hussain Khada Bakhsa<br>حسام حسين خدا بخش</h1>
+<h1 align="center">Hassam<br>حسام</h1>
 
 <p align="center">
 High school student in Jeddah, Saudi Arabia. I build Arabic open-source tools and interactive 3D learning websites,<br>
@@ -35,7 +35,7 @@ All six on one page: **[hosam382.github.io](https://hosam382.github.io/)**
 | From Water to Land | Vertebrates journey with photo stations and a classification key game | [open](https://hassambakhsh.netlify.app/works/vert/) |
 | National Day 96 | Interactive quiz and map in Arabic, English and Urdu | [open](https://azna96.netlify.app) |
 | Wai exhibition | 3D virtual museum corridor for an awareness program | [open](https://wai-expo.netlify.app) |
-| Aman exhibition | Interactive story for an anti-bullying program | [open](https://aman-expo.netlify.app) |
+| Aman exhibition | 3D corridor with 12 awareness halls for my school's anti-bullying program | [open](https://aman-quraysh.netlify.app) |
 
 Smaller Python practice: [network-port-scanner](https://github.com/hosam382/network-port-scanner), [file-organizer-tool](https://github.com/hosam382/file-organizer-tool).
 
