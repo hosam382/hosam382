@@ -23,6 +23,7 @@ All six on one page: **[hosam382.github.io](https://hosam382.github.io/)**
 | [Arabic Claude Skills](https://github.com/hosam382/arabic-claude-skills) | 4 Claude Code skills for Arabic RTL web, Arabic writing review, Saudi school reports and Hijri dates | [live](https://hosam382.github.io/arabic-claude-skills/) |
 | [AI Prompts for Teachers](https://github.com/hosam382/ai-prompts-for-teachers) | A library of ready Arabic AI prompts for teachers, with fill-in fields and one-click copy | [live](https://hosam382.github.io/ai-prompts-for-teachers/) |
 | [Arabic Password Checker](https://github.com/hosam382/password-checker-ar) | Explains in Arabic why a password is weak, incl. Arabic words typed on an English keyboard | [live](https://hosam382.github.io/password-checker-ar/) |
+| [Arabic Link Checker](https://github.com/hosam382/link-checker-ar) | Paste a link or an SMS: highlights the real domain and explains phishing signs in Arabic | [live](https://hosam382.github.io/link-checker-ar/) |
 | [Arabic Text Toolkit](https://github.com/hosam382/arabic-text-toolkit) | Zero-dependency Python module + CLI: normalize Arabic, digits, slugs, word counts | [code](https://github.com/hosam382/arabic-text-toolkit) |
 | [Study Plan Generator](https://github.com/hosam382/study-plan-generator) | Day-by-day Qudrat and Tahsili study plan, printable and exportable to your calendar | [live](https://hosam382.github.io/study-plan-generator/) |
 
